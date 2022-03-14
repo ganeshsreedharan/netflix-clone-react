@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { http } from "../HttpUtility";
+import { http } from "../shared/HttpUtility";
 import { urlType } from "../Requests";
 import { Movie, ResponseMovieData } from "../shared/ICommonMovie";
 import './Row.css'

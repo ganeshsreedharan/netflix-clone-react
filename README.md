@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# NETFLIX CLONE WITH REACT,REDUX AND TYPESCRIPT
+
+## Authentication manged by the firebase( with login with google feature )
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

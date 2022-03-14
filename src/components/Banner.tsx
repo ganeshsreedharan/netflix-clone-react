@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { http } from "../HttpUtility";
+import { http } from "../shared/HttpUtility";
 import { imageRequests } from "../Requests";
 import './Banner.css'
 import { Movie, ResponseMovieData } from "../shared/ICommonMovie";

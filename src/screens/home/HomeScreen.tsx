@@ -1,7 +1,8 @@
 import React from "react";
-import Banner from "../Banner";
-import Nav from "../Nav";
-import Row, { IRowProps } from "../Row";
+import Banner from "../../components/Banner";
+import Nav from "../../components/Nav";
+import Row, { IRowProps } from "../../components/Row";
+
 
 import { imageRequests } from "../../Requests";
 
